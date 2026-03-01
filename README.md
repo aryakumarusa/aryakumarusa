@@ -1,41 +1,49 @@
 # Arya Kumar
 
-Data Science student at the University of North Texas with experience in full-stack software development, cloud computing, and building scalable applications.
+Data Science student at the University of North Texas with experience in full-stack software development, cloud computing, and scalable application design. Passionate about building real-world software systems and expanding expertise in backend and cloud-based architectures.
+
+---
 
 ## Software Development Projects
 
-### Smart Receipt Scanner
+### Smart Receipt Scanner  
 Full-stack Flutter application with Firebase backend and Google Cloud Vision OCR integration.
 
-Features:
-- Cross-platform mobile app (Android, iOS, Web, Desktop)
+**Key Features:**
+- Cross-platform mobile and web application (Android, iOS, Web, Desktop)
 - OCR-based receipt scanning using Google Cloud Vision API
-- Firebase backend with Firestore, Cloud Functions, and Storage
-- Real-time expense tracking dashboard
-- Scalable service-layer architecture
+- Firebase backend with Firestore, Cloud Functions, and Cloud Storage
+- Real-time expense tracking dashboard with category filtering
+- Scalable service-layer architecture using object-oriented design
 
-Project Link:
+**Project Link:**  
 https://github.com/aryakumarusa/smart_receipt_scanner
+
+---
 
 ## Technical Skills
 
-Languages:
-Python, C++, SQL, Dart
+**Languages:**  
+Python, C++, SQL, Dart  
 
-Technologies:
-Flutter, Firebase, Google Cloud, Git, REST APIs
+**Technologies:**  
+Flutter, Firebase, Google Cloud Platform, Git, REST APIs  
 
-Concepts:
-Object-Oriented Programming, Data Structures, Algorithms, SDLC
+**Core Concepts:**  
+Object-Oriented Programming, Data Structures, Algorithms, Software Development Lifecycle (SDLC)
 
-## Currently Focused On
+---
 
-- Software Development
-- Full-Stack Engineering
-- Cloud Applications
-- Backend Systems
+## Current Focus
+
+- Software Development Engineering  
+- Full-Stack Application Development  
+- Cloud-Based Systems  
+- Backend Engineering  
+
+---
 
 ## Contact
 
-LinkedIn:
+**LinkedIn:**  
 https://www.linkedin.com/in/aryakumar06/

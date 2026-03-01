@@ -6,11 +6,11 @@ Data Science student at the University of North Texas with experience in full-st
 
 ## Software Development Projects
 
-### Smart Receipt Scanner  
+### Smart Receipt Scanner
 Full-stack Flutter application with Firebase backend and Google Cloud Vision OCR integration.
 
 **Key Features:**
-- Cross-platform mobile and web application (Android, iOS, Web, Desktop)
+- Cross-platform application (Android, iOS, Web, Desktop)
 - OCR-based receipt scanning using Google Cloud Vision API
 - Firebase backend with Firestore, Cloud Functions, and Cloud Storage
 - Real-time expense tracking dashboard with category filtering
